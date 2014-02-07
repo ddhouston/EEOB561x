@@ -1,0 +1,6 @@
+BRANCHING - allows multiple users to simultaneously edit a file and enables experimentation 
+without altering your primary script
+
+changes made go to a stage, then they need to be committed.
+
+https://github.com/EmSherratt/neonshez.git
